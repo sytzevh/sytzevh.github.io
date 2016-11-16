@@ -1,2 +1,2 @@
 # sytzevh.github.io
-Online CV
+code repository
